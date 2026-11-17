@@ -1,7 +1,7 @@
 Notebook 118
 Pencil 450
 Stapler 14
-Tape 60
+Tape 58
 Envelopes 500
 Rubber bands 900
 Markers 75
