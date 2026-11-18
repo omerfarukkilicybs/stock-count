@@ -26,3 +26,8 @@ Every line of the count has a commit behind it:
 git log --oneline count.txt
 git blame count.txt
 ```
+
+Markdown
+
+## Decisions
+[0001 The count is a plain text file](docs/adr/0001-plain-text-count.md)
